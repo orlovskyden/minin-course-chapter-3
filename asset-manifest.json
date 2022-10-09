@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/minin-course-chapter-3/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/minin-course-chapter-3/static/js/main.dbad3920.chunk.js",
-    "main.js.map": "/minin-course-chapter-3/static/js/main.dbad3920.chunk.js.map",
-    "runtime-main.js": "/minin-course-chapter-3/static/js/runtime-main.5b7cc475.js",
-    "runtime-main.js.map": "/minin-course-chapter-3/static/js/runtime-main.5b7cc475.js.map",
+    "main.js": "/minin-course-chapter-3/static/js/main.ecc2213f.chunk.js",
+    "main.js.map": "/minin-course-chapter-3/static/js/main.ecc2213f.chunk.js.map",
+    "runtime-main.js": "/minin-course-chapter-3/static/js/runtime-main.07c9dafa.js",
+    "runtime-main.js.map": "/minin-course-chapter-3/static/js/runtime-main.07c9dafa.js.map",
     "static/css/2.32c1ecfd.chunk.css": "/minin-course-chapter-3/static/css/2.32c1ecfd.chunk.css",
-    "static/js/2.747f1334.chunk.js": "/minin-course-chapter-3/static/js/2.747f1334.chunk.js",
-    "static/js/2.747f1334.chunk.js.map": "/minin-course-chapter-3/static/js/2.747f1334.chunk.js.map",
-    "static/js/3.febbef77.chunk.js": "/minin-course-chapter-3/static/js/3.febbef77.chunk.js",
-    "static/js/3.febbef77.chunk.js.map": "/minin-course-chapter-3/static/js/3.febbef77.chunk.js.map",
+    "static/js/2.1172c7d9.chunk.js": "/minin-course-chapter-3/static/js/2.1172c7d9.chunk.js",
+    "static/js/2.1172c7d9.chunk.js.map": "/minin-course-chapter-3/static/js/2.1172c7d9.chunk.js.map",
+    "static/js/3.4748deb9.chunk.js": "/minin-course-chapter-3/static/js/3.4748deb9.chunk.js",
+    "static/js/3.4748deb9.chunk.js.map": "/minin-course-chapter-3/static/js/3.4748deb9.chunk.js.map",
     "index.html": "/minin-course-chapter-3/index.html",
     "static/css/2.32c1ecfd.chunk.css.map": "/minin-course-chapter-3/static/css/2.32c1ecfd.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/minin-course-chapter-3/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.747f1334.chunk.js.LICENSE.txt": "/minin-course-chapter-3/static/js/2.747f1334.chunk.js.LICENSE.txt"
+    "static/js/2.1172c7d9.chunk.js.LICENSE.txt": "/minin-course-chapter-3/static/js/2.1172c7d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b7cc475.js",
+    "static/js/runtime-main.07c9dafa.js",
     "static/css/2.32c1ecfd.chunk.css",
-    "static/js/2.747f1334.chunk.js",
+    "static/js/2.1172c7d9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.dbad3920.chunk.js"
+    "static/js/main.ecc2213f.chunk.js"
   ]
 }
