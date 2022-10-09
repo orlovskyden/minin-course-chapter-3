@@ -4,6 +4,7 @@
 	<li>Fetching data from fake API,</li>
 	<li>show users in Table,</li>
 	<li>customize CSS classes</li>
+	<li>refactor code, add new components and configure props between them</li>
 </ul>
 
 <h2><a href="https://orlovskyden.github.io/minin-course-chapter-3/" target="_blank">Live app</a></h2>
